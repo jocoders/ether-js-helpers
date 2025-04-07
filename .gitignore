@@ -1,0 +1,17 @@
+# Compiler files
+.idea/
+node_modules/
+
+# Dotenv file
+.env
+
+# History
+.history
+
+#GitHub
+.github
+
+# IntelliJ IDEA
+.idea
+
+.DS_Store
