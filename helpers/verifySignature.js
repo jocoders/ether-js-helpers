@@ -1,4 +1,4 @@
-const { hexlify } = require("@ethersproject/bytes"); // Import hexlify from @ethersproject/bytes
+const { hexlify } = require("@ethersproject/bytes");
 const { encode } = require("@ethersproject/rlp");
 const { ethers, keccak256, Signature } = require("ethers");
 
